@@ -1,0 +1,16 @@
+h1 { 
+    color: turquoise; 
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;      
+}
+
+body { 
+    background-color: black;
+}
+
+p { 
+    font-family: 'Source Sans Pro', sans-serif; 
+    color: turquoise; 
+    text-align: center; 
+}
+
